@@ -97,7 +97,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarManReaper&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BarManReaper"/>
   </a>
 </div>
-<p align="rigth">
+<p align="center">
   <a href="https://github.com/BarManReaper">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarManReaper&&theme=tokyonight" alt="BarManReaper" />
   </a>
