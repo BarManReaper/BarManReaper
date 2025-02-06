@@ -75,13 +75,9 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL"/>
     <br>
     <br>
-    <kbd>
-      <kbd>Operating System, Networking & Deployment</kbd>
-      <br>
-      <br>
     <kbd>
       <kbd>Tools</kbd>
       <br>
