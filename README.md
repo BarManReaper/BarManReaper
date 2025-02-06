@@ -128,6 +128,13 @@
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
 </details>
 
+  </td>
+  </tr>
+</table>
+</details>
+
+</details>
+
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
 </div>
