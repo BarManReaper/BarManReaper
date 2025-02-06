@@ -92,7 +92,7 @@
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BarManReaper&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
   </p>
 </details>
 
@@ -103,6 +103,8 @@
     “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
     <br><strong>Mr. Robot - Elliot Alderson</strong>
   </blockquote>
+  <blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+<br><strong>– Elon Musk</strong></blockquote>
 </details>
 
 <details>
@@ -116,8 +118,7 @@
 <details>
   <td width="50%" valign="top">
 
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
+
 
   </td>
   </tr>
