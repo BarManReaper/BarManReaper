@@ -91,18 +91,15 @@
 <details>
   <summary>GitHub Stats</summary>
   <br>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BarManReaper&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-  </p>
-	<div align="center">
-  <a href="https://github.com/RResabala2015">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+<div align="center">
+  <a href="https://github.com/BarManReaper">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarManReaper&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BarManReaper"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarManReaper&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BarManReaper"/>
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/RResabala2015">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RResabala2015&&theme=tokyonight" alt="RResabala2015" />
+  <a href="https://github.com/BarManReaper">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarManReaper&&theme=tokyonight" alt="BarManReaper" />
   </a>
 </p>
 
