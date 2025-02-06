@@ -13,10 +13,10 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
+      <img height="200" alt="Avatar photo of Reaper" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of Reaper">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Hugo;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Hardworking+and+Ambitious;Music+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -114,18 +114,6 @@
 </details>
 
 <details>
-<summary>What can I do for you?</summary>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
-## Let's Work on Your Project Together!
-
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>, I won't bite, I promise.
-
-  </td>
   <td width="50%" valign="top">
 
 ## It's not perfect, isn't it?
