@@ -91,11 +91,11 @@
 <details>
   <summary>GitHub Stats</summary>
   <br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/BarManReaper">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarManReaper&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BarManReaper"/>
 </div>
-<p align="rigth">
+<p align="center">
   <a href="https://github.com/BarManReaper">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarManReaper&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BarManReaper"/>
   </a>
